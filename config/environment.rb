@@ -1,7 +1,3 @@
-class Application < Rails::Application
-  config.web_console.whitelisted_ips = '<IP address here>'
-end
-
 
 # Load the Rails application.
 require_relative 'application'
